@@ -1,0 +1,7 @@
+Classe Abstrata: Uma classe abstrata é uma classe que serve de modelo para outras classes. Ela sempre será
+uma superclasse genérica, e suas subclasses serão mais específicas.
+
+Herança: A herança é um mecanismo da Orientação a Objeto que permite criar novas classes a partir de classes já
+existentes, aproveitando-se das características existentes na classe a ser estendida.
+
+Agregação: É quando um objeto necessita de outro objeto já criado para existir.
